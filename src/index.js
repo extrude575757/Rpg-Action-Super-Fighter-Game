@@ -1,0 +1,1 @@
+/*  javascript Make it as classes that use inheritance and objects*/
